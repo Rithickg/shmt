@@ -1,0 +1,76 @@
+.item2 {
+    height: 180px;
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.76);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.1px);
+    margin: 0 10px;
+    -webkit-backdrop-filter: blur(9.1px);
+    border: 1px solid rgba(255, 255, 255, 0.29);
+}
+
+.item-con {
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.76);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.1px);
+    margin: 0 10px;
+    -webkit-backdrop-filter: blur(9.1px);
+    border: 1px solid rgba(255, 255, 255, 0.29);
+}
+
+.item4 {
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(255, 255, 255, 0.76);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(9.1px);
+    margin: 0 10px;
+    -webkit-backdrop-filter: blur(9.1px);
+    border: 1px solid rgba(255, 255, 255, 0.29);
+}
+
+.exm {
+    background: rgba(246, 245, 245, 0.998);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(17.1px);
+    -webkit-backdrop-filter: blur(17.1px);
+    border: 1px solid rgba(255, 255, 255, 0.29);
+}
+
+.dates {
+    padding: 10px;
+    justify-content: space-evenly;
+    border: white;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: black;
+    background-color: white;
+}
+
+.dates:hover {
+    color: white;
+    background-color: rgb(244, 150, 56);
+}
+
+.date {
+    padding: 10px;
+    justify-content: space-evenly;
+    border: white;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    color: black;
+    background-color: white;
+}
+
+.date:hover {
+    color: white;
+    background-color: rgb(244, 150, 56);
+}

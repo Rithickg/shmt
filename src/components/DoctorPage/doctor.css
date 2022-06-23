@@ -1,0 +1,17 @@
+.doc-container {
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto auto;
+}
+
+.row2 {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.row3 {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}

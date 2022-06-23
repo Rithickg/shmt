@@ -1,0 +1,41 @@
+.navbar {
+    background: rgba(255, 255, 255, 0.58);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(3.8px);
+    -webkit-backdrop-filter: blur(3.8px);
+    border: 1px solid rgba(255, 255, 255, 0.29);
+    width: 100px;
+    height: 100%;
+}
+
+.logo {
+    padding: 20px;
+    text-align: center;
+}
+
+.navbar-icons {
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    display: block;
+    list-style-type: none;
+}
+
+.nav-icon {
+    display: block;
+    padding: 20px;
+    border-radius: 50px;
+}
+
+.nav-icon:hover {
+    background-color: gold;
+}
+
+.icon {
+    text-align: center;
+}
+
+.icon:hover {
+    color: orangered;
+}
